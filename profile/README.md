@@ -4,8 +4,11 @@ Welcome to the Khala Event Platform! 🚀 This project is a complete, full-stack
 
 This project was developed as a ky-education (EC-Ubtildningar) assignment for the "Cloud Services and Distributed Systems" course, with the ambitious goal of meeting the criteria for a "Godkänd" (G), or "VG-level"—the highest grade.
 
+**Thanks EC-Utbildning and Hans & Emil** For the support and the knowledge.
 <https://ecutbildning.se/>
 
+**Please be aware of the coldstart in Azure** It takes some time first time you are loading the page, be patient :)
+<https://green-sea-0af246b03.6.azurestaticapps.net/>
 ---
 
 ## What is Khala?
