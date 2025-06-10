@@ -67,6 +67,9 @@ A microservice responsible for providing location data for events.
 ### 5. **VoidMail** (Email Service - *Implied*)
 Though not detailed, a service like `voidmail/api/` is part of the architecture, responsible for handling transactional emails, such as sending information regarding event and packages.
 
+**Known bug:** It does send the mail but the user gets response **"Email Status: No data found or unexpected response format.
+"No data found or unexpected response format.""**
+
 ---
 
 ## 🤖 A Note on AI-Powered Development
