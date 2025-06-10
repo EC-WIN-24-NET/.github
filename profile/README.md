@@ -1,5 +1,3 @@
-
-
 # Khala Event Platform
 
 Welcome to the Khala Event Platform! 🚀 This project is a complete, full-stack event management system built on a modern, cloud-native microservices architecture. It allows users to discover, view, and register for events through a seamless and responsive web interface. The entire platform is designed for scalability, maintainability, and is fully deployed on Microsoft Azure.
